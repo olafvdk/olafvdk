@@ -2,7 +2,7 @@
 
 <!-- Greeting Section -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/snowman.ico" width="100">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/snowman%20icon%20file.ico" width="100">
 </p>
 
 <h1 align="center">Hi there, I'm Olaf 👋</h1>
