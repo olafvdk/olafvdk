@@ -1,4 +1,4 @@
-# Hi there, I'm Olaf!Hello there! <img src="https://raw.githubusercontent.com/your-username/your-repo/main/snowman icon file.ico" width="24" height="24" alt="Snowman Icon"> Welcome to my GitHub!
+# Hi there, I'm Olaf!Hello there! <img src="https://raw.githubusercontent.com/olafvdk/olafvdk/refs/heads/main/snowman%20icon%20file.ico" width="24" height="24" alt="Snowman Icon"> Welcome to my GitHub!
 
 
 ![Banner Image](your_banner_image_url_here)
