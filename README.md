@@ -7,8 +7,8 @@
 <h1 align="center">Hi there, I'm Olaf 👋</h1>
 
 <p align="center">
-  <b>Pastor turned Cloud & AI Technologist</b>
-  Building a bridge between faith, technology, and critical thinking.
+  <b>Pastor turned Cloud & AI Technologist
+  Building a bridge between faith, technology, and critical thinking.</b>
   <br>
 </p>
 
