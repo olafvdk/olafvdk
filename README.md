@@ -32,7 +32,7 @@ bringing the same care for people and integrity to the world of **cloud administ
   &nbsp;&nbsp;
 
   <!-- Microsoft logo inline + badge -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_azure-icon.svg" width="22" alt="Microsoft Azure Logo" style="vertical-align: middle;">
+  <img src="(https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_azure-icon.svg" width="22" alt="Microsoft Azure Logo" style="vertical-align: middle;">
   <img src="https://img.shields.io/badge/AI--900-Certified-brightgreen?style=for-the-badge" alt="AI-900 Certified">
   &nbsp;&nbsp;
 
