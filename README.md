@@ -26,20 +26,13 @@ bringing the same care for people and integrity to the world of **cloud administ
 
 ### 🪴 Certifications & Learning Timeline
 
-### 🪴 Certifications & Learning Timeline
-
-<p align="center">
-  <!-- Azure logo (top anchor, optional) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="90" alt="Microsoft Azure Logo">
-</p>
-
 <p align="center">
   <!-- Jamf 100 -->
   <img src="https://img.shields.io/badge/Jamf%20100-Certified-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Jamf 100 Certified">
   &nbsp;&nbsp;
 
   <!-- Microsoft logo inline + badge -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="22" alt="Microsoft Logo" style="vertical-align: middle;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_azure-icon.svg" width="22" alt="Microsoft Azure Logo" style="vertical-align: middle;">
   <img src="https://img.shields.io/badge/AI--900-Certified-brightgreen?style=for-the-badge" alt="AI-900 Certified">
   &nbsp;&nbsp;
 
