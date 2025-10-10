@@ -7,8 +7,8 @@
 <h1 align="center">Hi there, I'm Olaf 👋</h1>
 
 <p align="center">
-  <b>Pastor turned Cloud & AI Technologist.<br>
-    Building a bridge between faith, technology, and critical thinking.</b>
+  <b>Pastor turned Cloud & AI Technologist.</b><br>
+  <b>Building a bridge between faith, technology, and critical thinking.</b>
 </p>
 
 ---
@@ -27,9 +27,9 @@ bringing the same care for people and integrity to the world of **cloud administ
 ### 🪴 Certifications & Learning Timeline
 
 <p align="center">
- <!-- Jamf 100 (click-through) -->
+  <!-- Jamf 100 (click-through) -->
   <a href="https://www.credly.com/badges/c11cb536-cc37-415c-8a0f-ffee3d680b67/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Jamf%20100-Certified-brightgreen?style=for-the-badge&logo=apple&logoColor=white" alt="Jamf 100 Certified">
+    <img src="https://img.shields.io/badge/Jamf%20100-Certified-brightgreen?style=for-the-badge&logo=apple&logoColor=white" alt="Jamf 100 Certified" style="vertical-align: middle;">
   </a>
   &nbsp;&nbsp;
 
@@ -45,14 +45,11 @@ bringing the same care for people and integrity to the world of **cloud administ
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="22" alt="Power BI Logo" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/PL--900-Up%20Next-lightgrey?style=for-the-badge" alt="PL-900 Upcoming" style="vertical-align: middle;">
   </a>
-
 </p>
 
 <p align="center">
   <sub>✅ Certified • 🟡 In Progress • ⚪ Upcoming</sub><br>
-  <br>
- <img src="https://img.shields.io/badge/Updated-Oct%202025-informational?style=flat" alt="Updated Oct 2025">
-
+  <img src="https://img.shields.io/badge/Updated-Oct%202025-informational?style=flat" alt="Updated Oct 2025">
 </p>
 
 ---
