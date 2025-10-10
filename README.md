@@ -49,7 +49,7 @@ bringing the same care for people and integrity to the world of **cloud administ
 
 <<p align="center">
   <sub>✅ Certified • 🟡 In Progress • ⚪ Upcoming</sub><br>
-  <sub><i>Updated Oct 2025</i></sub>>
+  <sub><i>**Updated Oct 2025**</i></sub>
 </p>
 
 ---
