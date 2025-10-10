@@ -28,9 +28,16 @@ bringing the same care for people and integrity to the world of **cloud administ
 ### 🪴 Certifications & Learning Timeline
 
 <p align="center">
+  <!-- Jamf 100 -->
   <img src="https://img.shields.io/badge/Jamf%20100-Certified-blue?style=for-the-badge&logo=apple" alt="Jamf 100 Certified">
-  <img src="https://img.shields.io/badge/AI--900-In%20Progress-yellow?style=for-the-badge&logo=microsoftazure" alt="AI-900 In Progress">
-  <img src="https://img.shields.io/badge/PL--900-Up%20Next-lightgrey?style=for-the-badge&logo=powerbi" alt="PL-900 Upcoming">
+  <!-- AI-900 -->
+  <img src="https://img.shields.io/badge/AI--900-Certified-brightgreen?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900 Certified">
+  <!-- PL-900 -->
+  <img src="https://img.shields.io/badge/PL--900-Up%20Next-lightgrey?style=for-the-badge&logo=powerbi&logoColor=white" alt="PL-900 Upcoming">
+</p>
+
+<p align="center">
+  <sub>✅ Completed • 🟡 In Progress • ⚪ Upcoming</sub>
 </p>
 
 <p align="center">
