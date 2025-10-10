@@ -34,7 +34,7 @@ bringing the same care for people and integrity to the world of **cloud administ
   &nbsp;&nbsp;
 
   <!-- Microsoft (inline logo + badge, both clickable) -->
-  <a href="https://learn.microsoft.com/certifications/azure-ai-fundamentals/" target="_blank" rel="noopener noreferrer" title="AI-900: Azure AI Fundamentals">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/OlafvandeKlashorst-9508/712DC8F95DA8EFE6?sharingId=6BD6AC81DA16D3C5" target="_blank" rel="noopener noreferrer" title="AI-900: Azure AI Fundamentals">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_azure-icon.svg" height="22" alt="Microsoft Azure Logo" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/AI--900-Certified-brightgreen?style=for-the-badge" alt="AI-900 Certified" style="vertical-align: middle;">
   </a>
