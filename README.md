@@ -27,19 +27,25 @@ bringing the same care for people and integrity to the world of **cloud administ
 ### 🪴 Certifications & Learning Timeline
 
 <p align="center">
-  <!-- Jamf 100 -->
- 
- <img src="https://img.shields.io/badge/Jamf%20100-Certified-brightgreen?style=for-the-badge&logo=apple&logoColor=white" target ="https://www.credly.com/badges/c11cb536-cc37-415c-8a0f-ffee3d680b67/public_url" alt="Jamf 100 Certified">
+ <!-- Jamf 100 (click-through) -->
+  <a href="https://www.credly.com/badges/c11cb536-cc37-415c-8a0f-ffee3d680b67/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Jamf%20100-Certified-brightgreen?style=for-the-badge&logo=apple&logoColor=white" alt="Jamf 100 Certified">
+  </a>
   &nbsp;&nbsp;
 
-  <!-- Microsoft logo inline + badge -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_azure-icon.svg" width="22" alt="Microsoft Azure Logo" style="vertical-align: middle;">
-  <img src="https://img.shields.io/badge/AI--900-Certified-brightgreen?style=for-the-badge" alt="AI-900 Certified">
+  <!-- Microsoft (inline logo + badge, both clickable) -->
+  <a href="https://learn.microsoft.com/certifications/azure-ai-fundamentals/" target="_blank" rel="noopener noreferrer" title="AI-900: Azure AI Fundamentals">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_azure-icon.svg" height="22" alt="Microsoft Azure Logo" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/AI--900-Certified-brightgreen?style=for-the-badge" alt="AI-900 Certified" style="vertical-align: middle;">
+  </a>
   &nbsp;&nbsp;
 
-  <!-- Power BI logo inline + badge -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="22" alt="Power BI Logo" style="vertical-align: middle;">
-  <img src="https://img.shields.io/badge/PL--900-Up%20Next-lightgrey?style=for-the-badge" alt="PL-900 Upcoming">
+  <!-- Power BI (inline logo + badge, clickable) -->
+  <a href="https://learn.microsoft.com/certifications/power-platform-fundamentals/" target="_blank" rel="noopener noreferrer" title="PL-900: Power Platform Fundamentals">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="22" alt="Power BI Logo" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/PL--900-Up%20Next-lightgrey?style=for-the-badge" alt="PL-900 Upcoming" style="vertical-align: middle;">
+  </a>
+
 </p>
 
 <p align="center">
