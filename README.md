@@ -49,10 +49,9 @@ bringing the same care for people and integrity to the world of **cloud administ
 </p>
 
 <p align="center">
-  <sub>✅ Certified • 🟡 In Progress • ⚪ Upcoming</sub>
-<p align="center">
   <sub>✅ Certified • 🟡 In Progress • ⚪ Upcoming</sub><br>
-  <sub><i>Updated Oct 2025</i></sub>
+ <img src="https://img.shields.io/badge/Updated-Oct%202025-informational?style=flat" alt="Updated Oct 2025">
+
 </p>
 
 ---
