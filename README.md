@@ -44,7 +44,7 @@ bringing the same care for people and integrity to the world of **cloud administ
   &nbsp;&nbsp;
 
   <!-- Power BI logo inline + badge -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="22" alt="Power BI Logo" style="vertical-align: middle;">
+  <img src="(https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" width="22" alt="Power BI Logo" style="vertical-align: middle;">
   <img src="https://img.shields.io/badge/PL--900-Up%20Next-lightgrey?style=for-the-badge" alt="PL-900 Upcoming">
 </p>
 
