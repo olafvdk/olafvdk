@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/olafvdk/olafvdk/refs/heads/main/snowman_blue_icon.ico" /img>
+  <img src="https://raw.githubusercontent.com/olafvdk/olafvdk/main/snowman_blue_icon.ico" width="100" alt="Waving Snowman Icon"></img>
 </p>
   
 <!-- Greeting Section -->
