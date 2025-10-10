@@ -32,8 +32,8 @@ bringing the same care for people and integrity to the world of **cloud administ
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jamf%20100-Certified-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Jamf 100 Certified">
-  <img src="https://img.shields.io/badge/AI--900-Certified-brightgreen?style=for-the-badge&logo=microsoft&logoColor=000000" alt="AI-900 Certified">
-  <img src="https://img.shields.io/badge/PL--900-Up%20Next-lightgrey?style=for-the-badge&logo=powerbi&logoColor=000000" alt="PL-900 Upcoming">
+  <img src="https://img.shields.io/badge/AI--900-Certified-brightgreen?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI-900 Certified">
+  <img src="https://img.shields.io/badge/PL--900-Up%20Next-lightgrey?style=for-the-badge&logo=powerbi&logoColor=white" alt="PL-900 Upcoming">
 </p>
 
 
