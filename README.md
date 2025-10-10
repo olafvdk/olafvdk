@@ -49,8 +49,8 @@ bringing the same care for people and integrity to the world of **cloud administ
 
 ### ☃️ What Drives Me
 I believe technology should be **humane, ethical, and empowering** —  
-a tool to help communities thrive, not just systems run.  
-This career pivot isn’t just a change of tools; it’s an extension of purpose.
+a tool to help communities thrive, empowering growth and supporting potential.  
+This career pivot isn’t just a change of tools; it’s an extension of purpose and focus.
 
 ---
 
