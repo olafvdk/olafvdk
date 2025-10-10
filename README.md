@@ -8,7 +8,6 @@
 
 <p align="center">
   <b>Pastor turned Cloud & AI Technologist. Building a bridge between faith, technology, and critical thinking.</b>
-  <br>
 </p>
 
 ---
