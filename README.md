@@ -20,7 +20,8 @@ bringing the same care for people and integrity to the world of **cloud administ
 ### 🧭 Current Focus
 - 🎯 Hands-on learning in **Microsoft Intune**, **Entra ID**, and **M365**  
 - 📜 Certified **Jamf 100 Associate** (macOS/iOS Management)  
-- ☁️ Preparing for **AI-900** (Azure AI Fundamentals) and **PL-900** (Power Platform Fundamentals)  
+- 📜 Certified **AI-900** (Azure AI Fundamentals) and **PL-900** 
+- ☁️ Preparing for **PL-900** (Power Platform Fundamentals)
 - 💡 Exploring **ethical AI** and how technology can serve human flourishing
 
 ---
