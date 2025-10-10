@@ -28,7 +28,7 @@ bringing the same care for people and integrity to the world of **cloud administ
 
 <p align="center">
   <!-- Jamf 100 -->
-  <img src="https://img.shields.io/badge/Jamf%20100-Certified-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Jamf 100 Certified">
+  <img src="https://img.shields.io/badge/Jamf%20100-Certified-brightgreen?style=for-the-badge&logo=apple&logoColor=white" alt="Jamf 100 Certified">
   &nbsp;&nbsp;
 
   <!-- Microsoft logo inline + badge -->
