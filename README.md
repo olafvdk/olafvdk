@@ -14,7 +14,7 @@
 ---
 
 ### 🌨️ My Journey
-After years of serving as a small-church pastor, I’m now pursuing a new chapter in technology —  
+After years of serving as a small-church pastor, integrating life, technology and care, I’m now pursuing a new intentional focus on technology —  
 bringing the same care for people and integrity to the world of **cloud administration**, **device management**, and **AI solutions**.
 
 ### 🧭 Current Focus
