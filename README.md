@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/olafvdk/olafvdk/main/snowman_icon.png" width="100" alt="Waving Snowman Icon">
+  <img src="https://raw.githubusercontent.com/olafvdk/olafvdk/main/snowman_icon.png" width="100" alt="Snowman icon">
 </p>
   
 <!-- Greeting Section -->
@@ -14,7 +14,7 @@
 ---
 
 ### 🌨️ My Journey
-After years of serving as a small-church pastor, integrating life, technology and leadership, I’m now pursuing a new focus on technology —  
+After years of serving as a small-church pastor, integrating life, technology, and leadership, I’m now pursuing a new focus on technology —  
 bringing the same care for people and integrity to the world of **cloud administration**, **device management**, and **AI solutions**.
 
 ### 🧭 Current Focus
@@ -56,7 +56,7 @@ bringing the same care for people and integrity to the world of **cloud administ
 
 ### ☃️ What Drives Me
 I believe technology should be **humane, ethical, and empowering** —  
-a tool to help communities thrive, empowering growth and supporting potential.  
+a tool to help communities thrive, empowering growth, and supporting potential.  
 This career pivot isn’t just a change of tools; it’s an extension of purpose and focus.
 
 ---
