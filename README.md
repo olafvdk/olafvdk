@@ -28,8 +28,8 @@ bringing the same care for people and integrity to the world of **cloud administ
 
 <p align="center">
   <!-- Jamf 100 -->
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c11cb536-cc37-415c-8a0f-ffee3d680b67" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
- <img src="https://img.shields.io/badge/Jamf%20100-Certified-brightgreen?style=for-the-badge&logo=apple&logoColor=white" alt="Jamf 100 Certified">
+ 
+ <img src="https://img.shields.io/badge/Jamf%20100-Certified-brightgreen?style=for-the-badge&logo=apple&logoColor=white" target ="https://www.credly.com/badges/c11cb536-cc37-415c-8a0f-ffee3d680b67/public_url" alt="Jamf 100 Certified">
   &nbsp;&nbsp;
 
   <!-- Microsoft logo inline + badge -->
